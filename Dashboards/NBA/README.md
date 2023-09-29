@@ -41,3 +41,55 @@ O propósito deste painel é analisar as principais métricas dos maiores jogado
 # Agradecimentos
 
 Quero deixar meu agradecimento à [Xperiun](https://www.linkedin.com/company/xperiun/) por estar sempre proporcionando esse aprendizado contínuo em suas imersões!
+
+
+---
+---
+---
+---
+---
+
+![Dashboard](Ativos/DashNBA.png)
+
+# Objective
+
+The purpose of this panel is to analyze the key metrics of the greatest NBA players, including a "Side-by-Side" tab, to provide a comparative view between them. The focus was also on adding interactivity between the panels, making the analysis more robust and visually appealing.
+
+# Key Analyses
+
+## LeBron Tab
+
+- Field Goal Percentage
+    - 3-Pointers;
+    - Field Goals;
+    - Free Throws.
+- Match Metrics
+- Season Analysis
+
+## Jordan Tab
+
+- Field Goal Percentage
+    - 3-Pointers;
+    - Field Goals;
+    - Free Throws.
+- Match Metrics
+- Season Analysis
+
+## Side-by-Side
+
+- Comparison between the mentioned metrics above
+- Filters for season analysis
+- Filters for metric analysis
+
+# Architecture
+
+![architecture.png](Ativos/architecture.png)
+
+# Technologies
+
+- Excel
+- Power BI (Power Query, DAX)
+
+# Acknowledgments
+
+I want to express my gratitude to [Xperiun](https://www.linkedin.com/company/xperiun/) for consistently providing continuous learning through their immersions!
