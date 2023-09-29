@@ -33,7 +33,7 @@ Este dashboard foi projetado para oferecer uma análise abrangente das corridas,
 
 # Arquitetura
 
-![architecture.png](Ativos/architecture.png)
+![architecture.png](Ativos/Architecture.png)
 
 # Tecnologias
 
