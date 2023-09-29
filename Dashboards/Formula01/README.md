@@ -86,7 +86,7 @@ This dashboard was designed to offer a comprehensive analysis of Formula 1 races
 
 # Architecture
 
-![architecture.png](Ativos/architecture.png)
+![architecture.png](Ativos/Architecture.png)
 
 # Technologies
 
