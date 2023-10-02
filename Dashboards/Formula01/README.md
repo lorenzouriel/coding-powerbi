@@ -14,6 +14,7 @@ Este dashboard foi projetado para oferecer uma análise abrangente das corridas,
 - Total de Corridas
 - Mapa para melhorar a visualização do local das corridas
 - Gráficos e tabelas destacam localização, total de corridas e detalhamento do Grand Prix.
+![Dashboard](Ativos/AbaCorridas.png)
 
 ### **Equipes**
 
@@ -22,6 +23,7 @@ Este dashboard foi projetado para oferecer uma análise abrangente das corridas,
 - Temporadas
 - Total de Corridas
 - Gráficos e tabelas destacam pontuação, vitórias e podiums por equipe
+![Dashboard](Ativos/AbaEquipes.png)
 
 ### **Pilotos**
 
@@ -30,6 +32,7 @@ Este dashboard foi projetado para oferecer uma análise abrangente das corridas,
 - Temporadas
 - Total de Corridas
 - Gráficos e tabelas destacam pontuação, vitórias e podiums por piloto
+![Dashboard](Ativos/AbaPilotos.png)
 
 # Arquitetura
 
@@ -67,6 +70,7 @@ This dashboard was designed to offer a comprehensive analysis of Formula 1 races
 - Total Races
 - Map to enhance race location visualization
 - Graphs and tables highlight location, total races, and Grand Prix details.
+![Dashboard](Ativos/AbaCorridas.png)
 
 ### **Teams**
 
@@ -75,6 +79,7 @@ This dashboard was designed to offer a comprehensive analysis of Formula 1 races
 - Seasons
 - Total Races
 - Graphs and tables highlight scores, wins, and podiums per team.
+![Dashboard](Ativos/AbaEquipes.png)
 
 ### **Drivers**
 
@@ -83,6 +88,7 @@ This dashboard was designed to offer a comprehensive analysis of Formula 1 races
 - Seasons
 - Total Races
 - Graphs and tables highlight scores, wins, and podiums per driver.
+![Dashboard](Ativos/AbaPilotos.png)
 
 # Architecture
 
