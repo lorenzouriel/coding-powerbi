@@ -11,9 +11,9 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20M-yellow?logo=powerbi&logoColor=white&style=flat-square)](https://powerbi.microsoft.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Web-lightgrey?style=flat-square)](#)
 
-This repository documents the architecture of the **`project-portfolio-dashboards`** service in a clear and concise way, simplifying the understanding of its components and structure.
-
 It serves as a learning hub for **Data Visualization** and **Storytelling** using Power BI and other leading BI tools.
+
+You can check the Toolkit that I usually use to create my Dashboards [here!](https://github.com/lorenzouriel/coding-powerbi/tree/main/Toolkit)
 
 ## 📁 Folder Structure
 All dashboards are located in the `Dashboards/` directory. Each dashboard folder contains:
