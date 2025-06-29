@@ -1,8 +1,8 @@
 <div align="center">
   <p>
-    <a name="stars"><img src="https://img.shields.io/github/stars/lorenzouriel/coding-power-bi?style=for-the-badge"></a>
-    <a name="forks"><img src="https://img.shields.io/github/forks/lorenzouriel/coding-power-bi?logoColor=green&style=for-the-badge"></a>
-    <a name="contributions"><img src="https://img.shields.io/github/contributors/lorenzouriel/coding-power-bi?logoColor=green&style=for-the-badge"></a>
+    <a name="stars"><img src="https://img.shields.io/github/stars/lorenzouriel/coding-powerbi?style=for-the-badge"></a>
+    <a name="forks"><img src="https://img.shields.io/github/forks/lorenzouriel/coding-powerbi?logoColor=green&style=for-the-badge"></a>
+    <a name="contributions"><img src="https://img.shields.io/github/contributors/lorenzouriel/coding-powerbi?logoColor=green&style=for-the-badge"></a>
     <a name="madeWith"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"></a>
   </p>
 </div>
